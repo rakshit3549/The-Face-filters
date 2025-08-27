@@ -23,7 +23,7 @@ This project uses **OpenCV** (Computer Vision library) to detect your face and o
 
 Here are some examples of what the program can generate:  
 
-- 📸 [Captured Images](https://github.com/rakshit3549/The-Face-filters/tree/master/nose_image)  
+- 📸 [Captured Images](https://github.com/rakshit3549/The-Face-filters/tree/master/image_records)  
 - 🎥 [Recorded Videos](https://github.com/rakshit3549/The-Face-filters/tree/master/video_records)  
 
 ---
